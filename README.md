@@ -3,6 +3,8 @@
 ## Overview of the analysis
 The purpose of this analysis is to help Pewlett Haggard to determine the number of all employees eligible for the retirement package. Also, the company would like to identify employees who are eligible to participate in a mentorship program.
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/N2v1g7L/Retirement-titles.png" alt="Retirement-titles" border="0" /></a> 
+
 ## Results
 Pewlett Haggard has 30.13% of people eligible to retire. The table displayed below shows the employees’ title that are most likely preparing for retirement.
  
